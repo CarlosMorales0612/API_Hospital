@@ -1,0 +1,27 @@
+# Build output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration and logs
+*.config
+*.log
+
+# Entity Framework migrations
+Migrations/
+
+# Ignore Visual Studio folders
+.vs/
+.vscode/
+
+# Packages directory for NuGet
+packages/
+
+# MacOS and Windows hidden files
+.DS_Store
+Thumbs.db
